@@ -1,0 +1,8 @@
+Flask
+Pillow
+requests
+flask_cors
+tenacity
+pdf2docx==0.5.8
+google-cloud-storage
+PyPDF2
